@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Selsup/static/css/main.5eaa11c4.css",
+    "main.js": "/Selsup/static/js/main.b6563d70.js",
+    "index.html": "/Selsup/index.html",
+    "main.5eaa11c4.css.map": "/Selsup/static/css/main.5eaa11c4.css.map",
+    "main.b6563d70.js.map": "/Selsup/static/js/main.b6563d70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5eaa11c4.css",
+    "static/js/main.b6563d70.js"
+  ]
+}
